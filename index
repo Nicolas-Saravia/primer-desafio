@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Desafio 1 mi perfil</title>
+</head>
+
+<body>
+    <h1>Bienvenidos a mi perfil</h1>
+    <img src="img/imagen.jpeg" alt="foto de perfil" width="40%">
+    <ul>
+        <li>Nombre: Nicolas</li>
+        <li>Apellido: Saravia</li>
+        <li>Edad: 27 años</li>
+        <li>Mail: Nicosaravia91@gmai.com</li>
+    </ul>
+    <h2>Mi presentacion</h2>
+    <p>Mi nombre es Nicolas y tengo 27 años. Actualmente me encuentro queriendo sumar nuevos desafios en mi vida y por
+        ese motivo me anote en Nucba, para poder seguir ampliando mis conocimientos y crecer profesionalmente.</p>
+
+</body>
+
+</html>
